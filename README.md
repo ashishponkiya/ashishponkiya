@@ -1,11 +1,8 @@
 ## Hi there 👋
 ## 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-light.svg" />
-  <img alt="GitHub contribution snake" src="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-light.svg" />
-</picture>
+![GitHub Snake](https://raw.githubusercontent.com/ashishponkiya/ashishponkiya/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
