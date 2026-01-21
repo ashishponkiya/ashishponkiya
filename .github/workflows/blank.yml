@@ -1,4 +1,5 @@
 name: Generate Snake
+
 permissions:
   contents: write
 
@@ -14,12 +15,18 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ashishponkiya
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
