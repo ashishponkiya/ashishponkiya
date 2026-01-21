@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Snake](https://github.com/ashishponkiya/ashishponkiya/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **ashishponkiya/ashishponkiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
