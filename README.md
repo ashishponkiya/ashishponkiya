@@ -1,6 +1,12 @@
 ## Hi there 👋
+## 🐍 Contribution Activity
 
-![GitHub Snake](https://github.com/ashishponkiya/ashishponkiya/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-light.svg" />
+  <img alt="GitHub contribution snake" src="https://github.com/ashishponkiya/ashishponkiya/blob/output/snake-light.svg" />
+</picture>
+
 
 <!--
 **ashishponkiya/ashishponkiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
