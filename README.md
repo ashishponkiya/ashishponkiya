@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Ashish Ponkiya
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashish+Ponkiya+👋" alt="Typing SVG" />
+</h1>
 
 🎓 **MCA Student** | 💻 Aspiring Data Analyst  
 📍 Bengaluru, Karnataka, India  
@@ -25,6 +27,9 @@
 - **MCA (Master of Computer Applications)**  
   REVA University, Bengaluru, Karnataka, India  
 
+- **BSc IT (Bachelor of Science in Information Technology)**  
+  Bhakta Kavi Narsinh Mehta University (BKNMU), Junagadh, Gujarat, India
+
 ---
 
 ## 🛠️ Skills
@@ -32,7 +37,8 @@
 **Programming Languages**
 - C
 - Python
-
+- Java
+  
 **Web Technologies**
 - HTML
 - CSS
